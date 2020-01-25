@@ -51,3 +51,8 @@ Converts VEC back into TRAMP path string.
 #### prf/tramp/vec/vec-p `(vec)`
 
 Returns `'t` when VEC is a valid TRAMP vec.
+
+
+## Usage
+
+For a concrete example, read [this article about overriding some TRAMP methods](https://www.eigenbahn.com/2020/01/15/tramp-autologin-insanity).
