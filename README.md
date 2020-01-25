@@ -1,4 +1,4 @@
-# prf-shell
+# prf-tramp
 
 This repository holds several packages:
 
